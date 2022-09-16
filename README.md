@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! Welcome to my GitHub! 🐛
 
 <!--
 **amandamarkee/amandamarkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a student at University of Florida where I...
+- 🐛 Use genomic/transcriptomic/bioinformatic tools to characterize silk production in moths.
+- 🧬 Train students on various molecular and bioinformatic methods.
+- ✊ Strive to create more inclusive and equitible environments for others in academia.
+
+Outside of research, I love...
+- 🎮 Playing video games!
+- 📣 Organizing within my community.
+- 💪 Powerlifting 
+
+📫 Contact me at
+- Personal Email: amanda.markee@gmail.com
+- Work Email: amarkee@floridamuseum.ufl.edu
