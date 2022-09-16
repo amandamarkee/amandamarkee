@@ -1,4 +1,4 @@
-### Hello! Welcome to my GitHub! 🐛
+### Hello! Welcome to my GitHub! 
 
 <!--
 **amandamarkee/amandamarkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
