@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently a graduate student at University of Florida where I...
 - 🐛 Use genomic/transcriptomic/bioinformatic tools to characterize silk production in moths.
-- 🧬 Train students on various molecular and bioinformatic methods.
+- 💻 Train students on various molecular and bioinformatic methods.
 - ✊ Strive to create more inclusive and equitible environments for others in academia.
 
 Outside of research, I love...
