@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a graduate student at University of Florida where I...
-- 🐛 Use genomic/transcriptomic/bioinformatic tools to characterize silk production in moths.
+I'm currently a graduate student at American Museum of Natural History where I...
+- 🐛 Use genomic/transcriptomic/bioinformatic tools to characterize silk production in various critters.
 - 💻 Train students on various molecular and bioinformatic methods.
 - ✊ Strive to create more inclusive and equitible environments for others in academia.
 
 Outside of research, I love...
 - 🎮 Playing video games!
 - 📣 Organizing within my community.
-- 💪 Powerlifting 
 
 📫 Contact me at
 - Personal Email: amanda.markee@gmail.com
-- Work Email: amarkee@floridamuseum.ufl.edu
+- Work Email: amarkee@amnh.org
