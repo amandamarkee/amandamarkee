@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm currently a graduate student at American Museum of Natural History where I...
 - 🐛 Use genomic/transcriptomic/bioinformatic tools to characterize silk production in various critters.
-- 💻 Train students on various molecular and bioinformatic methods.
-- ✊ Strive to create more inclusive and equitible environments for others in academia.
+- 💻 Train students in molecular and bioinformatic methods.
+- ✊ Strive to create more inclusive and equitible environments in academia.
 
 Outside of research, I love...
 - 🎮 Playing video games!
