@@ -27,4 +27,4 @@ Outside of research, I love...
 📫 Contact me at
 - Personal Email: amanda.markee@gmail.com
 - Work Email: amarkee@amnh.org
-- Curriculum Vitae: [Current CV](https://drive.google.com/file/d/1fcTtoKeZi1Haac1tssPyV_S6VeDuO5l0/view?usp=sharing)
+- Curriculum Vitae: [Current CV](https://drive.google.com/file/d/1EJCRKtbgUSIpJdc6HWaD37y7TEoxa4r1/view?usp=sharing)
